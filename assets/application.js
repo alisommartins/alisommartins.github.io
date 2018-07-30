@@ -38,7 +38,6 @@ function sendmail(e){
 
 function InitDates()
 {
-    debugger;
     var idade =  MinhaIdade();
     $("#idade").html(idade);
 }
@@ -50,3 +49,4 @@ function MinhaIdade()
     return Math.abs(ageDate.getUTCFullYear() - 1970);
 }
 
+$("#year").html(new Date().getFullYear())

@@ -717,7 +717,7 @@ a:hover {
 }
 
 .services-block .fa {
-  font-size: 38px;
+  font-size: 28px;
   padding: 35px 0 0;
 }
 
@@ -1086,7 +1086,7 @@ a:hover {
   height: auto;
   padding: 0 0 50px;
   z-index: 0;
-  background: #292F34 url(../img/quote.jpg) no-repeat fixed;
+  background: #292F34 url(../img/development.png) no-repeat fixed;
   position: relative;
 }
 /*.message-block:after {
